@@ -3,7 +3,6 @@ package com.maximus.jwd;
 import com.maximus.jwd.entity.ImmutableStudent;
 import com.maximus.jwd.entity.Subject;
 import com.maximus.jwd.entity.University;
-import org.w3c.dom.ls.LSOutput;
 
 public class Main {
 
